@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "My mode",
+    "owner": "metizik"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "sample",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
